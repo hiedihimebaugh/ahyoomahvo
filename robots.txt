@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thohpeshah.annpastry.com/sitemap.xml
